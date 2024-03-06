@@ -178,6 +178,7 @@ function zipper (done) {
       'partials/**',
       'podcast/**',
       'LICENSE',
+      'ads.txt',
       'package.json',
       'README.md',
       '!node_modules', '!node_modules/**',
